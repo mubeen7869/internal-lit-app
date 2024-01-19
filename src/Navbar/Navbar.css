@@ -1,0 +1,43 @@
+/* Navbar container */
+.navbar {
+  background-color: gray/* Dark gray background color */
+}
+
+
+/* Logo image */
+.img {
+  height: 90px;
+  width: 100%;
+  
+  margin-top: -11px;
+  margin-bottom: -20;
+
+}
+
+
+/* Navigation links */
+.navbar-nav .nav-link {
+  color: black;
+  font-weight: bold;
+}
+
+
+/* User information section */
+.userInfo {
+  cursor: pointer;
+}
+
+
+/* User icon */
+.user_icon {
+  margin-right: 15px;
+  height: 30px;
+  width: 30px;
+  color: #fff; /* White color or any contrasting color */
+}
+
+
+/* Dropdown menu items */
+.dropdown-menu .dropdown-item {
+  color: black; /* Set text color to black */
+}
